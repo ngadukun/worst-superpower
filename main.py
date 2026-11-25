@@ -8,7 +8,7 @@ Standard library only, deterministic, no network, no file reads.
 
 import os
 
-LINE = "I can summon a single raindrop directly above my own head, once a day, but only when it's already sunny."
+LINE = "I can summon a single raindrop directly above my own head, once a day — but only on days that are already sunny."
 
 
 def main():
